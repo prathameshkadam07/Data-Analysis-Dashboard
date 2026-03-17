@@ -12,18 +12,27 @@ Monitor overall business performance
 - <a href="https://github.com/prathameshkadam07/Data-Analysis-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
 
 ## Key Questions / KPIs
-🔹 Sales Performance
+🔹 Sales Performance:- 
 What is the total sales revenue?
 How many total orders and total quantity were sold?
 What is the Month-over-Month (MoM) growth in sales and orders?
-🔹 Time-Based Analysis
+🔹 Time-Based Analysis:- 
 How do sales trend over time (daily/monthly)?
 Which hours of the day generate the highest sales?
 How do weekday vs weekend sales compare?
-🔹 Product Insights
+🔹 Product Insights:-
 Which product categories generate the most revenue?
 What are the top-selling products?
-🔹 Location Analysis
+🔹 Location Analysis:-
 Which store locations perform the best?
 How does sales vary across different stores?
 Date & Time
+
+
+## Project Process (In Short)
+Data Collection – Gathered coffee shop sales data (transactions, products, dates, stores).
+Data Cleaning – Removed errors, handled missing values, and formatted data properly.
+Data Modeling – Created relationships and built a Date Table for time analysis.
+DAX Calculations – Developed measures for KPIs like Total Sales, Orders, Quantity, and MoM Growth.
+Dashboard Creation – Designed interactive visuals (charts, heatmaps, KPI cards, slicers).
+Insights Generation – Identified trends, peak hours, top products, and store performance.
