@@ -1,6 +1,6 @@
-#Project: Coffee Shop Sales Analysis (Power BI)
+# Project: Coffee Shop Sales Analysis (Power BI)
 
-##Project Objective:-
+## Project Objective:-
 The main objective of this project was to analyze coffee shop sales data and transform raw transactional data into meaningful insights using Power BI.
 This dashboard helps:
 Monitor overall business performance
