@@ -1,2 +1,9 @@
-# Data-Analysis-Dashboard
-Built an interactive dashboard to analyze sales performance, product trends, and store insights. Used DAX for KPI calculations and created visualizations like heatmaps and trend charts to identify patterns and support data-driven decisions.
+#Project: Coffee Shop Sales Analysis (Power BI)
+
+##Project Objective:-
+The main objective of this project was to analyze coffee shop sales data and transform raw transactional data into meaningful insights using Power BI.
+This dashboard helps:
+Monitor overall business performance
+Identify sales trends and patterns
+Understand customer purchasing behavior
+Support data-driven decision making for improving sales and operations
