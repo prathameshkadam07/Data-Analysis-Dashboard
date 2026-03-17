@@ -40,7 +40,7 @@ Insights Generation – Identified trends, peak hours, top products, and store p
 ## Dashboard
 <img width="1317" height="748" alt="Screenshot 2026-03-05 222912 - Copy" src="https://github.com/user-attachments/assets/c067608b-71a5-4e35-8caa-e16c7f796c70" />
 
-## Project Insights (Short)
+## Project Insights 
 Peak sales occur during specific hours of the day,
 Weekend sales are higher than weekdays,
 Certain products and categories perform better,
