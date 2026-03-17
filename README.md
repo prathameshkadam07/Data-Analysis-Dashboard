@@ -7,3 +7,6 @@ Monitor overall business performance
 , Identify sales trends and patterns
 , Understand customer purchasing behavior
 , Support data-driven decision making for improving sales and operations
+
+## Dataset used
+https://github.com/prathameshkadam07/Data-Analysis-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx
