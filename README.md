@@ -29,10 +29,14 @@ How does sales vary across different stores?
 Date & Time
 
 
-## Project Process (In Short)
+## Project Process
 Data Collection – Gathered coffee shop sales data (transactions, products, dates, stores).
 Data Cleaning – Removed errors, handled missing values, and formatted data properly.
 Data Modeling – Created relationships and built a Date Table for time analysis.
 DAX Calculations – Developed measures for KPIs like Total Sales, Orders, Quantity, and MoM Growth.
 Dashboard Creation – Designed interactive visuals (charts, heatmaps, KPI cards, slicers).
 Insights Generation – Identified trends, peak hours, top products, and store performance.
+
+## Dashboard
+<img width="1317" height="748" alt="Screenshot 2026-03-05 222912 - Copy" src="https://github.com/user-attachments/assets/c067608b-71a5-4e35-8caa-e16c7f796c70" />
+
